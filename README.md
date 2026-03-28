@@ -32,3 +32,13 @@ This project analyzes air quality data across major Indian cities to identify po
 
 ## 📌 Conclusion
 Air pollution in India shows strong seasonal and regional patterns. Targeted policies are required to reduce pollution in high-risk urban areas.
+
+## 📂 Dataset
+
+The dataset used in this project is sourced from Kaggle:
+
+🔗 https://www.kaggle.com/datasets/bhautikvekariya21/air-quality-dataset-indian-cities-2022-2025
+
+Note: Due to file size limitations, the dataset is not uploaded in this repository.
+
+To run this project, download the dataset from the above link and place it in the working directory.
