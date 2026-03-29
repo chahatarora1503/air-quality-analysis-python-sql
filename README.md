@@ -17,6 +17,7 @@ This project analyzes air quality data across major Indian cities to identify po
 - Monthly trend analysis
 - Pollutant correlation analysis
 - City risk segmentation
+- SQL-driven city pollution ranking using window functions
 
 ## 🧠 Key Insights
 - Majority of air quality falls under Moderate category
@@ -26,9 +27,10 @@ This project analyzes air quality data across major Indian cities to identify po
 - Southern and northeastern cities show better air quality
 
 ## 🗄 SQL Usage
-- Aggregated AQI categories
-- Identified top polluted cities
-- Analyzed monthly pollution trends
+- Aggregated AQI category distribution
+- Identified top 10 most polluted cities
+- Analyzed monthly pollution trends by city
+- Ranked cities by pollution level within each month using Window Functions (RANK() OVER PARTITION BY)
 
 ## 📌 Conclusion
 Air pollution in India shows strong seasonal and regional patterns. Targeted policies are required to reduce pollution in high-risk urban areas.
